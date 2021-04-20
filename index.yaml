@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2021-04-19T23:45:46.391668031-04:00"
+entries:
+  demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-19T23:53:23.710693166-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 4eb50e7a87b5967418334e6a4596d92ba386b121b27abef030588de11493d80d
+    name: demo
+    type: application
+    urls:
+    - http://markieta.com/helm/demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-19T23:53:23.710080124-04:00"
